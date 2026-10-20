@@ -2,6 +2,10 @@
 
 An interactive, browser-based playground for learning essential Git commands and workflows through guided lessons and a simulated terminal.
 
+## Preview
+
+![Git Playground Interface](screenshots/playground.png)
+
 ## Overview
 
 Git Playground is a small learning project built with HTML, CSS, and vanilla JavaScript. It helps beginners explore common Git workflows without installing Git or working in a real repository.
