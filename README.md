@@ -21,11 +21,33 @@ The terminal **simulates** supported commands; it does not execute Git commands 
 - Commit history and branch visualization
 - Runs directly in a browser without a build step
 
-## Getting started
+## Getting Started
 
-1. Download or clone this repository.
-2. Open `index.html` in a modern web browser.
-3. Follow the lessons and enter commands in the simulated terminal.
+Git Playground runs directly in your browser. No installation or dependencies are required.
+
+### Option 1: Try the Live Demo
+
+**[Launch Git Playground](https://sahaqa.github.io/git-playground/)**
+
+Explore the interactive lessons and practice Git commands using the simulated terminal.
+
+### Option 2: Run Locally
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/SahaQA/git-playground.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd git-playground
+   ```
+
+3. Open `index.html` in your browser.
+
+No additional setup is necessary.
 
 No dependencies, installation, or backend server are required. The page uses Google Fonts, so typography may look different when offline.
 
